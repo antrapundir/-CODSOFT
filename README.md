@@ -69,7 +69,6 @@ Design a modern e-commerce website interface with an intuitive shopping experien
 
 * Home Page
 * Promotional Banner
-* Product Listing Page
 * Product Categories
 * Search Bar
 * Shopping Cart
